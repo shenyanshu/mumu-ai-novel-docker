@@ -1,0 +1,5 @@
+services:
+  mumuainovel:
+    build:
+      context: .
+      dockerfile: Dockerfile
